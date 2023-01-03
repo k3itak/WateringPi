@@ -12,4 +12,4 @@
 ### 1. Dynamic DNS
 固定IPサービスを使わない限り、プロバイダから割り当てられるIPアドレスは動的(Dynamic)なので、いつも同じとは限らない。
 Dynamic DNSサービスを用いて、あらかじめ登録したURLを踏むと必ず家のルーターにアクセスされるように設定する。
-Dynamic DNSサービスはいろいろあるが、今回は[Dynu](www.dynu.com/en-US)を利用した。
+Dynamic DNSサービスはいろいろあるが、今回は[Dynu](https:www.dynu.com/en-US)を利用した。
